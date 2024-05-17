@@ -1,0 +1,2 @@
+Game in the style of Space Invaders, created by Argyrios Fragkos and Ioannis Mastrogiannis, using AUEB's Simple Graphics Library (SGG by professor George Papaioannou).
+The objective was the proper allocation of memory and its deletion after use.
