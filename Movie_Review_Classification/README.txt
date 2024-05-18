@@ -1,0 +1,1 @@
+Program uses the Naive Bayes and ID3 algorithms to determine whether the movie's review was positive or not, based on the words used in said review.
